@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kotturu Nishanth, a Full-time Data Analyst 👨‍💻 Data-driven and detail-oriented professional with expertise in data analysis, statistical modeling, and data visualization, with a passion for using data to drive business decisions 🚀</div>  
+### <div align="center">I'm Kotturu Nishanth, a Full-time Data Analyst 👨‍💻 Data-driven and detail-oriented learnear with expertise in data analysis, statistical modeling, and data visualization, with a passion for using data to drive business decisions 🚀</div>  
   
 
 - 🔭 I’m currently working on [Data Science Project](https://github.com/Kotturu-Nishanth/)  
